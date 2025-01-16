@@ -13,8 +13,8 @@ body{
 }
 
 button{
-    width: 250px;
-    height: 40px;
+    width: 400px;
+    height: 70px;
     border: 1px solid grey;
     background: transparent;
     cursor: pointer;
